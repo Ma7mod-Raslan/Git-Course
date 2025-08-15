@@ -1,2 +1,2 @@
 # Git-Course
-Github Course Elzero
+Github Course DEPI
